@@ -1,4 +1,4 @@
-<!-- VEVONEX ORGANIZATION README -->
+<!-- VEVONEX ORGANIZATION PROFILE -->
 
 <p align="center">
   <img src="./Github Banner.png" alt="Vevonex Banner" width="100%" />
@@ -11,43 +11,42 @@
 </p>
 
 <p align="center">
-  <a href="https://vevonex.com">Website</a> •
-  <a href="mailto:info@vevonex.com">Contact</a> •
-  <a href="https://github.com/vevonex">GitHub Organization</a>
+  <a href="https://vevonex.vercel.app">🌐 Website</a> •
+  <a href="mailto:vevonex20@gmail.com">📧 Contact</a> •
+  <a href="https://github.com/vevonex">💻 GitHub Organization</a>
 </p>
 
 ---
 
-## 🏢 About
+## 🏢 About Us
 
-Vevonex is a software development company focused on designing and building **scalable digital products, enterprise systems, and modern web applications**.
+Vevonex is a modern software development company focused on building **scalable, secure, and high-performance digital products**.
 
-We help startups, businesses, and enterprises transform ideas into production-ready software using modern engineering practices and reliable architectures.
+We help businesses and startups transform ideas into production-ready systems using modern web technologies and clean architecture.
 
 ---
 
 ## 🎯 What We Do
 
-- Custom Web Application Development
-- SaaS Product Engineering
-- Backend & API Development
-- Mobile Application Development
-- UI/UX Implementation
-- Cloud Infrastructure & Deployment
-- System Design & Architecture
+- SaaS Platform Development  
+- Custom Web Applications  
+- Backend & API Development  
+- Mobile App Development  
+- UI/UX Implementation  
+- Cloud & DevOps Solutions  
 
 ---
 
 ## ⚙️ Engineering Approach
 
-We follow a structured and scalable development methodology:
+We follow a structured engineering system:
 
-- Clean Architecture & Modular Design
-- API-First Development Strategy
-- Performance-Optimized Frontend Systems
-- Secure Backend Practices
-- Scalable Database Design
-- CI/CD & DevOps Automation
+- Clean Architecture & Scalable Codebase  
+- API-First Development  
+- Performance Optimization  
+- Secure Backend Design  
+- CI/CD Automation  
+- Cloud Deployment Strategy  
 
 ---
 
@@ -61,34 +60,17 @@ We follow a structured and scalable development methodology:
 - Node.js, Express.js
 - MongoDB, MySQL, Firebase
 
-**Infrastructure**
+**DevOps & Tools**
 - Docker, AWS, Vercel
-- GitHub Actions, Nginx
+- GitHub Actions, Postman
 
 ---
 
-## 🚀 Products & Focus Areas
+## 💻 Coding Environment
 
-- SaaS Platforms
-- Admin Dashboards
-- Real-time Applications
-- E-commerce Systems
-- Business Automation Tools
-- API & Microservices Architecture
-
----
-
-## 🤝 Collaboration
-
-We are open to:
-
-- Client Projects
-- Startup Partnerships
-- Open Source Contributions
-- Freelance Development
-- Technical Consulting
-
-📩 Email: info@vevonex.com
+<p align="center">
+  <img src="./coding.gif" alt="Coding GIF" width="420px" />
+</p>
 
 ---
 
@@ -105,12 +87,18 @@ We are open to:
 
 ---
 
-## 🌍 Contact
+## 🤝 Contact & Collaboration
 
-- 🌐 Website: https://vevonex.com  
-- 📧 Email: info@vevonex.com  
-- 💼 GitHub: https://github.com/vevonex  
-- 🌐 Socials: LinkedIn • Twitter • Facebook • Instagram  
+We are open to:
+
+- Client Projects  
+- Startup Partnerships  
+- Open Source Contributions  
+- Freelance Collaboration  
+- Technical Consulting  
+
+📩 Email: **vevonex20@gmail.com**  
+🌐 Website: https://vevonex.vercel.app  
 
 ---
 
