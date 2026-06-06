@@ -1,60 +1,58 @@
 ![logo](./Github%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm MD. SAIF ISLAM</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, We are Vevonex</h1>
+<h3 align="center">Empowering Businesses with Cutting-Edge Software Solutions</h3>
+
+<p align="center">
+  <a href="https://vevonex.com" target="_blank">🌐 Website</a> • 
+  <a href="mailto:info@vevonex.com">📧 Contact Us</a> • 
+  <a href="https://github.com/vevonex">🚀 Open Source</a>
+</p>
+
+---
 
 <div align="left">
-   <h3 align="left">About me</h3>
-  <p align="left">This is MD. SAIF ISLAM, a MERN Stack web developer with 3+ years of experience. I specialize in React js, Next js, Node js, Tailwind , MongoDB, JavaScript, and I create unique websites that exceed the expectations of my clients. I am committed to collaboration, transparency, and delivering exceptional results.</p>
+  <h3>🏢 About Vevonex</h3>
+  <p>Vevonex is a forward-thinking software development and tech solutions company. We specialize in building scalable web applications, robust mobile solutions, and enterprise-grade software that drives digital transformation. Our core focus is delivering performance-optimized, clean-coded, and highly secure applications using modern tech stacks like MERN, Next.js, and Cross-Platform frameworks.</p>
   
-  <h3 align="left">My vision</h3>
-  <p align="left">With a focus on innovation and user engagement, I create websites that drive growth and success in today's competitive online landscape. My vision is to empower businesses and individuals with cutting-edge web solutions. Let's work together and make your digital vision a reality!</p>
+  <h3>🎯 Our Mission & Vision</h3>
+  <p>We aim to bridge the gap between complex business challenges and elegant technical solutions. By leveraging automated workflows, cutting-edge UI/UX practices, and scalable cloud infrastructure, we build digital products that help brands scale effortlessly in today's competitive online landscape.</p>
 </div>
 
-<hr>
+---
 
 <div align="center">
-  <img align="right" alt="coading" width="350" src="./coading.gif">
+  <img align="right" alt="software-development" width="350" src="./coding.gif">
+  
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=muhammadsaif7717&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadsaif7717" />
+    <img src="https://komarev.com/ghpvc/?username=vevonex&label=Profile%20views&color=0e75b6&style=flat" alt="vevonex-views" />
   </p>
-  <h3 align="left">🚀 Current Overview 🚀</h3>
+  
+  <h3 align="left">🚀 Current Focus & Initiatives</h3>
   <ul align="left">
-    <li>🔭 I’m working in - <a target="_blank" href="https://easy-readme01.vercel.app">EasyReadme</a></li>
-    <li>🌱 I’m learning - <strong>Redux</strong></li>
-    <li>🔍 I’m looking - <strong>To collaborate on open source projects</strong></li>
-    <li>🏃 I’m trying - <strong>To learn full stack web development</strong></li>
-    <li>💬 Ask me about - <strong>MERN Stack Development</strong></li>
-    <li>📄 My resume - <a target="_blank" href="https://drive.google.com/file/d/1bI07nOE949lIj5kUNtlEAKhIqo_sMt5w/view?usp=drive_link">Click here</a></li>
-    <li>🌐 My protfolio - <a href="https://developer-saif.vercel.app/" target="_blank">Developer Saif</a></li>
+    <li>🔭 <strong>We’re working on</strong> – Innovative SaaS products and custom client applications.</li>
+    <li>🌱 <strong>Exploring & Adopting</strong> – Advanced Cloud Architectures, DevOps Automation, and Next-Gen Frameworks.</li>
+    <li>🔍 <strong>Looking for</strong> – Talented developers to collaborate on open-source initiatives.</li>
+    <li>💬 <strong>Talk to us about</strong> – Full-Stack Development, Architecture Scalability, and Product Strategy.</li>
   </ul>
 </div>
 
 <br>
 
 <div align="center">
-  <h3 align="left">📨 Reach me out 📨</h3>
+  <h3 align="left">📨 Connect With Us</h3>
   <p align="left">
-    <a href="https://twitter.com/muhammadsaif77" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammadsaif77" height="30" width="40" />
+    <a href="https://linkedin.com/company/vevonex" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vevonex-linkedin" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/muhammadsaif77177" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadsaif77177" height="30" width="40" />
+    <a href="https://twitter.com/vevonex" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vevonex-twitter" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/20575340" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20575340" height="30" width="40" />
+    <a href="https://facebook.com/vevonex" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vevonex-facebook" height="30" width="40" />
     </a>
-    <a href="https://fb.com/muhammadsaif7717" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammadsaif7717" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/muhammadsaif7717" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadsaif7717" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/muhammad saif" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammad saif" height="30" width="40" />
-    </a>
-     <a href="https://wa.me/+8801319630516" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="muhammad saif" height="30" width="40" />
+    <a href="https://instagram.com/vevonex" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vevonex-instagram" height="30" width="40" />
     </a>
   </p>
 </div>
@@ -62,36 +60,29 @@
 <br>
 
 <div align="left">
- <h3>⚒️ My Skills ⚒️</h3>
- <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,javascript,react,nextjs,redux,express,nodejs,firebase,mongodb" />
-    <img src="https://skillicons.dev/icons?i=github,vscode,figma,git" /><br>
-</div>
+  <h3>⚒️ Core Tech Stack & Tools</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,typescript,javascript,react,nextjs,redux,nodejs,express,mongodb,firebase,mysql" alt="tech-stack-1" /><br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,postman" alt="tech-stack-2" />
+  </div>
 </div>
 
 <br>
 
-<h2 align="left">⚡ Current Stats ⚡</h2>
-<p align=center>
-  <div align=center>
+<h2 align="left">⚡ Organization Activity ⚡</h2>
+<p align="center">
+  <div align="center">
     <a>
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=muhammadsaif7717&theme=react&border=61dafb&hide_border=true" alt="muhammadsaif7717" />
+      <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=vevonex&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="vevonex-stats" />
     </a>
     <a>
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=muhammadsaif7717&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsaif7717&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vevonex&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=6&layout=compact&border_color=61dafb&hide_border=true" alt="vevonex-languages" />
     </a>
   </div>
-  <br>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsaif7717&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <br><br><br><br><br><br><br><br><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vevonex&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="vevonex-activity"/>
 </p>
-</div>
 
-<hr>
+---
+
+<p align="center">Built with 💻 and ☕ by the <strong>Vevonex Team</strong>.</p>
