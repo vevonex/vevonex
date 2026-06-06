@@ -103,10 +103,10 @@ We follow industry best practices across every project — not just to ship fast
 
 ---
 
-## 📊 Organization Activity
+## Organization Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vevonex&show_icons=false&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vevonex&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vevonex&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
 </div>
 
